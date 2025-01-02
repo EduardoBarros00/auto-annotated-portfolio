@@ -19,5 +19,5 @@ backgroundImage:
   backgroundSize: contain
   backgroundPosition: bottom
   backgroundRepeat: no-repeat
-  opacity: 0
+  opacity: 100
 ---
