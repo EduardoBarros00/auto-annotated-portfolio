@@ -15,7 +15,6 @@ media:
   altText: Project image
 backgroundImage:
   type: BackgroundImage
-  url: /images/bg2.jpg
   backgroundSize: contain
   backgroundPosition: bottom
   backgroundRepeat: no-repeat
