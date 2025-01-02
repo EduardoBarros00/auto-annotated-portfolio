@@ -16,7 +16,7 @@ media:
 backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
-  backgroundSize: auto
+  backgroundSize: cover
   backgroundPosition: center
   backgroundRepeat: no-repeat
   opacity: 100
