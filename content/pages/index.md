@@ -89,4 +89,5 @@ sections:
         textAlign: left
       actions:
         justifyContent: center
+    title: BEM VINDO
 ---
