@@ -55,7 +55,7 @@ sections:
         justifyContent: center
         borderWidth: 1
   - type: RecentProjectsSection
-    subtitle: Projects
+    subtitle: Serviços e Produtos
     actions:
       - type: Link
         label: See all projects
