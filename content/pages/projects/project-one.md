@@ -13,4 +13,11 @@ media:
   type: ImageBlock
   url: /images/bg1.jpg
   altText: Project image
+backgroundImage:
+  type: BackgroundImage
+  url: /images/bg2.jpg
+  backgroundSize: auto
+  backgroundPosition: center
+  backgroundRepeat: no-repeat
+  opacity: 100
 ---
