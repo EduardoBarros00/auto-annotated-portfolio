@@ -58,7 +58,7 @@ sections:
     subtitle: Serviços e Produtos
     actions:
       - type: Link
-        label: See all projects
+        label: Mostrar Tudo
         altText: See all projects
         url: /projects
         showIcon: false
