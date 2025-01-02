@@ -17,7 +17,7 @@ backgroundImage:
   type: BackgroundImage
   url: /images/bg2.jpg
   backgroundSize: contain
-  backgroundPosition: left
+  backgroundPosition: bottom
   backgroundRepeat: no-repeat
   opacity: 100
 ---
