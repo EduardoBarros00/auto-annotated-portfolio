@@ -12,7 +12,7 @@ backgroundImage:
 sections:
   - elementId: ''
     colors: colors-f
-    backgroundSize: inset
+    backgroundSize: full
     title: A4 Papelaria & Acessorios
     subtitle: Tudo que você procura em um só lugar!
     styles:
